@@ -1,5 +1,3 @@
-# prompt: write the above code without sklearn
-
 import numpy as np
 import pandas as pd
 import random
